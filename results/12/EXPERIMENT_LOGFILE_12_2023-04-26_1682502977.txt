@@ -1,0 +1,7 @@
+timestamp	stimulus_timestamp	keypress_timestamp	key_pressed	message
+15273.748500010697				showing stimulus "This is an example stimulus. We can easily show text on the screen with PyGaze. We can change the font, the size and other settings.
+
+Press space to continue."
+19138.839800012647	15301.394800000708	19138.8341000129	space	showing stimulus "This is an example stimulus. We can easily show text on the screen with PyGaze. We can change the font, the size and other settings.
+
+Press space to continue."
