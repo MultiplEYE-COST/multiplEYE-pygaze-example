@@ -1,1 +1,0 @@
-timestamp	stimulus_timestamp	keypress_timestamp	key_pressed	message
